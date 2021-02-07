@@ -253,6 +253,58 @@ h6 {
   margin: 0 8.4%;
 }
 
+.create-lookbook {
+  background-color: white;
+  padding: 5% 0;
+}
+
+.lookbook {
+  background-color: #f8f8f8;
+  width: 32%;
+  height: 20rem;
+  padding-top: 1%;
+}
+
+.lookbook img {
+  height: 100%;
+  margin-left: 6%;
+}
+
+.lookbook .lookbook-text {
+  width: 52%;
+  text-align: right;
+  color: #5c5c5c;
+  margin-right: 5%;
+  margin-top: 7%;
+}
+
+.lookbook .lookbook-text p {
+  font-size: .7rem;
+}
+
+.lookbook .lookbook-text #bold-name {
+  margin-bottom: 0;
+}
+
+.lookbook .lookbook-text #lookbook-name {
+  font-weight: 300;
+  margin-bottom: 1rem;
+}
+
+.lookbook button {
+  padding: .5rem 1rem;
+  border-radius: 0;
+  border-color: black;
+  background-color: transparent;
+}
+
+.lookbook button:hover {
+  color: white;
+  border-color: #00c8c8;
+  background-color: #00c8c8;
+  border-style: solid;
+}
+
 .bottom-navigation {
   background-color: #f8f8f8;
   padding-top: 3rem;
